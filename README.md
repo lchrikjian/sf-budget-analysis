@@ -67,7 +67,7 @@ and the expansion of city services, particularly after 2009 and again after
 ## Visualizations
 
 ### Spending by Organization Group (FY 2025)
-![Spending by Organization Group](Spending_by_Organization_Group__FY_2025_.png)
+![Spending by Organization Group](San Francisco City Spending Over Time (1999–2026).png)
 *San Francisco city net spending by organization group in fiscal year 2025. 
 Negative values reflect internal transfers and reimbursements. 
 Source: SF Controller's Office, data.sfgov.org*
