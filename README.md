@@ -81,7 +81,6 @@ Source: SF Controller's Office, data.sfgov.org*
 *Total city spending by fiscal year from 1999 to 2026, based on a random 
 sample of 50,000 records. Year-to-year variation partly reflects sampling 
 rather than true budget changes. 
-
 Source: SF Controller's Office, data.sfgov.org*
 
 ## Methods and Limitations
