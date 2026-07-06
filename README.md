@@ -28,7 +28,7 @@ budgeted and actual amounts that may be revised retroactively. It also does
 not explain the policy reasons behind spending changes, which would require 
 additional reporting.
 
-[Original data source](https://data.sfgov.org/City-Management-and-Ethics/Spending-and-Revenue/bpnb-jwfb/about_data)
+[Original data source](https://data.sfgov.org/d/bpnb-jwfb)
 
 [Google Sheets analysis](https://docs.google.com/spreadsheets/d/1tt123lkPeK-LzU6nR8Lb4xJQPAOKiqF8gHLZhvKOyYI/edit?usp=sharing)
 
